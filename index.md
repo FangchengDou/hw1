@@ -26,4 +26,4 @@ I use `Alt` + `F4` to quit game when I am angry.
 - [ ] marry
 - [ ] keep doing [my bobbies](#my-hobbies)
   
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://lv7ms1pq6dm2sea8j1mrajzw-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/UCSD-1200x675.png)
