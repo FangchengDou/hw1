@@ -22,4 +22,6 @@ I use `Alt` + `F4` to quit game when I am angry.
 - [X] keep healthy
 - [ ] get a job
 - [ ] marry
-- [ ] keep doing [my bobbies](my-hobbies)
+- [ ] keep doing [my bobbies](#my-hobbies)
+  
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
