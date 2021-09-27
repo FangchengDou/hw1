@@ -13,10 +13,12 @@ I use `Alt` + `F4` to quit game when I am angry.
 - html
 - css
 - javascript
+
 ## my hobbies
 1. playing video game
 2. swimming
 3. sleeping
+
 ## things I want to do
 - [ ] graduate from UCSD
 - [X] keep healthy
