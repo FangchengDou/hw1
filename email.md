@@ -1,3 +1,3 @@
-fdou@ucsd.edu
-
-frankdoufc@ucsd.edu
+## my email
+- *fdou@ucsd.edu*
+- *frankdoufc@ucsd.edu*
