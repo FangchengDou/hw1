@@ -1,3 +1,2 @@
-fdou@ucsd.edu
-
-frankdoufc@ucsd.edu
+- *fdou@ucsd.edu*
+- *frankdoufc@ucsd.edu*
